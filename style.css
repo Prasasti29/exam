@@ -1,0 +1,82 @@
+
+/* slideshow1 */
+.card-img-overlay h1{
+    text-align: center;
+    margin-top: 200px;
+}
+
+.card-img-overlay p{
+    text-align: center;
+}
+
+.card-img-overlay button{
+    margin-left: 480px;
+}
+
+/* articel office */
+article{
+    width: 900px;
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+article h2, article p {
+    color: black;
+}
+
+article img {
+    width: 450px;
+    height: auto;
+    float: left;
+    margin-right: 10px;
+}
+
+article small{
+    color: red;
+    font-style: italic;
+}
+
+/* responsiveslide jquery */
+.rslides{
+    width: 900px;
+}
+.rslides li img{
+    width: 100%;
+}
+
+/* workshop event */
+.event h5 {
+ text-align: center;
+}
+
+.event p {
+    text-align: center;
+}
+
+.event hr {
+    border: 1px solid;
+}
+
+.card-bottom{
+    padding: 10px;
+}
+small{
+    color: white;
+}
+
+/* product */
+.card-body{
+    background-color: black;
+}
+.card-body h5{
+    color: white;
+}
+
+.card-body p{
+    color: white;
+}
+
+.row p{
+    color: white;
+}
